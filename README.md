@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **amalkochuparambilp@gmail.com**
 
-<a herf="https://amalkp.vercel.app">My website </a>
+- 🕸 Website
+**https://amalkp.vercel.app*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
