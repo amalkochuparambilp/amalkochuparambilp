@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalkochuparambilp" alt="amalkochuparambilp" /></a> </p>
 
-- 🔭 I’m currently working on **PROJECT T7**
+- 🔭 I’m currently working on **MASSIVE APP FRO CLG AND OTHER STUFF**
 
-- 🌱 I’m currently learning **Python DJANGO**
+- 🌱 I’m currently learning **Python DJANGO,FLUTTER,NETWORK,AL&ML**
 
 - 📫 How to reach me **amalkochuparambilp@gmail.com**
 
