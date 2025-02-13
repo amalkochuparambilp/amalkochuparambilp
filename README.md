@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Ai&ML,FLUTTER,R**
 
 - Education App **Edoo the gold of Students**
-- NOW STUDENTS @ JNIAS
+- NOW STUDENT @ JNIAS
 
 - 👨‍💻 All of my projects are available at [amalkp.vercel.app](amalkp.vercel.app)
 
